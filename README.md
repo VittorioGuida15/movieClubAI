@@ -4,10 +4,9 @@ OBIETTIVO: Lo scopo del progetto è quello di realizzare un agente intelligente 
   - Evolvere e migliorare continuamente il sistema di personalizzazione nel tempo, integrando i feedback degli utenti per ottimizzare ulteriormente le raccomandazioni. 
 
 RISORSE PRESENTE NELLA REPOSITORY: 
-  - Progetto compelto.
+  - Progetto completo.
   - FIA_implementazione.ipynb (file per l'utilizzo veloce).
-  - .\data\merged_dataset_300.csv (dataset)
-  - 
+  - .\data\merged_dataset_300.csv (dataset).
 
 ISTRUZIONI per l'utilizzo veloce:
   1. Accedere a Google Colab (assicurati di avere un account Google).
