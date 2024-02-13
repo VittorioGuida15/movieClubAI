@@ -8,7 +8,7 @@ Risorse presenti nella repository:
 Istruzioni per l'utilizzo veloce:
   1. Accedere a Google Colab (assicurati di avere un account Google).
   2. Crea un nuovo notebook o apri un notebook esistente.
-  3. Utilizza il codice presente nel file "FIA-implemmentazione".
+  3. Utilizza il file "FIA_implementazione.ipynb".
   4. Carica il dataset "dataset_merged_300".
   5. A questo punto potrai vedere l'esecuzione del modello senza l'utilizzo del sistema MovieClub completo.
 
