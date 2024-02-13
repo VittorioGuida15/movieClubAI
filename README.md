@@ -5,8 +5,15 @@ Obiettivo: Lo scopo del progetto è quello di realizzare un agente intelligente 
 
 Risorse presenti nella repository: 
 
-Istruzioni per l'utilizzo completo con sistema MovieClubb:
+Istruzioni per l'utilizzo veloce:
+  1. Accedere a Google Colab (assicurati di avere un account Google).
+  2. Crea un nuovo notebook o apri un notebook esistente.
+  3. Utilizza il codice presente nel file "FIA-implemmentazione".
+  4. Carica il dataset "dataset_merged_300".
+  5. A questo punto potrai vedere l'esecuzione del modello senza l'utilizzo del sistema MovieClub completo.
+
+Istruzioni per l'utilizzo completo con sistema MovieClub:
   1. Assicurati di avere un ambiente di sviluppo capace di eseguire python (es. PyCharm).
-  2. Effettuare il collegamento tramite github (assicurandoti di importare le lirerie utilizzate nel progetto).
+  2. Effettuare il collegamento tramite github (assicurandoti di importare le librerie utilizzate nel progetto).
   3. Per effettuate l'esecuzione completa, in concomitanza con il sistema MovieClub (progetto di Ingegneria del software), bisogna seguire le istruzioni presenti alla seguente repository:
      - https://github.com/salurso/MovieClub_NC07.git (manuale di installazione)
