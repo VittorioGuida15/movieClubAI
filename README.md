@@ -20,3 +20,7 @@ ISTRUZIONI per l'utilizzo completo con sistema MovieClub:
   2. Effettuare il collegamento tramite github (assicurandoti di importare le librerie utilizzate nel progetto).
   3. Per effettuate l'esecuzione completa, in concomitanza con il sistema MovieClub (progetto di Ingegneria del software), bisogna seguire le istruzioni presenti alla seguente repository:
      - https://github.com/salurso/MovieClub_NC07.git (manuale di installazione)
+
+# Autori
+- Costantino Paciello
+- Vittorio Guida
